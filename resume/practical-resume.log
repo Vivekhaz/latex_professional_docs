@@ -1,0 +1,1115 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  23 JUL 2020 14:46
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.tex
+(/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\UseTextAccent ...up \@firstofone \let \@curr@enc 
+                                                  \cf@encoding \@use@text@en...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Argument of \@font@info has an extra }.
+<inserted text> 
+                \par 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Paragraph ended before \@font@info was complete.
+<to be read again> 
+                   \par 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\get@external@font ->\let \external@font 
+                                         \@empty \edef \font@info {\expandaf...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\get@external@font ...nt \@empty \edef \font@info 
+                                                  {\expandafter \expandafter...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\try@size@range ...tract@rangefontinfo \font@info 
+                                                  <-*>\@nil <\@nnil 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Use of \@pr@videpackage doesn't match its definition.
+\ifnot@nil #1->\def \reserved@a {
+                                 #1}\ifx \reserved@a \@nnil \expandafter \@g...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+<argument> \@nil 
+                 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+<argument> \def \reserved@f 
+                            {\extract@rangefontinfo <\@nnil }\upper@bound 0*...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Argument of \extract@rangefontinfo has an extra }.
+<inserted text> 
+                \par 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@nnil 
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Paragraph ended before \extract@rangefontinfo was complete.
+<to be read again> 
+                   \par 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+<argument> ...d@f \@empty \fi \fi \fi \reserved@f 
+                                                  
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\extract@font ... \font \font@name \external@font 
+                                                  \relax \font@name \relax \...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2: Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.2 ...esume}[2020/07/01 Practical Résumé Class]
+                                                  
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 18 strings out of 492649
+ 672 string characters out of 6129622
+ 63742 words of memory out of 5000000
+ 3997 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 29i,0n,17p,174b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+/Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls:2:  ==> Fatal error occurred, no output PDF file produced!

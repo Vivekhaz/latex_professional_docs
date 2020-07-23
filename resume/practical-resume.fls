@@ -1,0 +1,8 @@
+PWD /Users/vivekhazari/repos/latex_professional_docs/resume
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.tex
+OUTPUT /Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.log
+INPUT /Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls
+INPUT /Users/vivekhazari/repos/latex_professional_docs/resume/practical-resume.cls
